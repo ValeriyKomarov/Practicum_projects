@@ -1,4 +1,8 @@
 | # | Название проекта | Описание проекта | Стек |
 | --- | --- | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| 1 | Исследовательский анализ данных в Python и проверка гипотез сервиса Яндекс Афиша | Проведение исследовательского анализа данных, чтобы выявить инсайты об изменении пользовательских предпочтений и популярности событий осенью 2024 года, а также проверка гипотез о разнице в поведении пользователей с мобильными и стационарными устройствами. | pandas, numpy, matplotlib, seaborn, scipy |
+| 2 | List all new or modified files |
+| 3 | List all new or modified files |
+| 4 | List all new or modified files |
+| 5 | List all new or modified files |
+| 6 | List all new or modified files |
